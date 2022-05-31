@@ -15,4 +15,4 @@ def get_squerence(n):
 
 nums = get_squerence(n)
 print(nums)
-print(round(sum(nums), 5))
+#print(round(sum(nums), 5))
