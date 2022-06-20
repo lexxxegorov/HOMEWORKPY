@@ -1,9 +1,9 @@
 import csv
 def go_tofile():
-    name = input ('Введите имя ').strip()
-    surname = input ('Введите фамилию ').strip()
-    tel = input ('Введите телефон ').strip()
-    comment = input ('Введите коментарии ').strip()
+    name = input ('Введите имя ')
+    surname = input ('Введите фамилию ')
+    tel = input ('Введите телефон ')
+    comment = input ('Введите коментарии ')
 
     contactInfo = dict(name=name, surname=surname, tel=tel, comment=comment)
 
