@@ -1,0 +1,7 @@
+1; Alex Petrov; +79162355885; director
+
+2; Ilya Sedova;+79263577553; friend
+
+3; Petr Frolov;+79633211212; doctor
+
+4; Julia Voronova;+79265699885; girlfreind
