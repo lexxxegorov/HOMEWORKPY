@@ -4,7 +4,7 @@
 Входные и выходные данные хранятся в отдельных текстовых файлах.
 
 """
-"""
+
 with open('Task20.txt', 'r') as data:
     new_text = data.read()
 print(new_text)
@@ -36,8 +36,8 @@ print(str_code)
 with open('Task20RLE.txt', 'w') as data:
     data.write(str_code)
 
-"""
 
+"""
 with open ('Task20RLE.txt', 'r') as data:
     new_text2 = data.read()
 
@@ -57,3 +57,5 @@ print(str_decode)
 
 with open('Task20.txt', 'a') as data:
     data.write(f'\n{str_decode}')
+
+"""
